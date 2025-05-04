@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hello, I'm Raphael Bröderbauer 👋</h1>
+<h1 align="left">Hello, I'm Raphael Holzer 👋</h1>
 
 ###
 
