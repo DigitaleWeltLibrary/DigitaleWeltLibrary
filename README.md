@@ -1,90 +1,243 @@
-<div align="center">
-  <img height="200" src="https://yt3.googleusercontent.com/VwliuX8WGVZKc9EvxqcoehOdYcf2mjBLJHPe61mg6a27yde9xORISPCSSGSOEA7d-JSwN3d6=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  />
-</div>
+<article
+  style="
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  "
+>
+  <img
+    src="assets/me.jpg"
+    alt="that`s me"
+    style="height: 150px; border-radius: 5rem"
+  />
+  <section>
+    <div>
+      <h1 style="font-size: 25px; padding: 0; margin: 0; text-wrap: pretty">
+        👋 Hi, I am
+        <span style="color: lightblue; font-family: cursive">Raphael</span>
+        Holzer
+      </h1>
+      <p
+        style="
+          font-weight: bolder;
+          padding: 0;
+          margin: 5px 0 10px;
+          text-wrap: pretty;
+        "
+      >
+        web developer, web designer, youtuber and digital artist from 📍
+        <span style="color: lightblue; font-family: cursive">Austria</span>
+      </p>
+    </div>
+    <p style="padding: 0; margin: 0; text-align: justify; text-wrap: pretty">
+      I am a passionate content creator and web developer, dedicated to bringing
+      <span style="color: darkblue">digital visions to life</span>. My focus is
+      on creating
+      <span style="color: darkblue">engaging web experiences</span>
+      and
+      <span style="color: darkblue">crafting compelling digital content</span>.
+      I also enjoy
+      <span style="color: darkblue"> consulting and providing training </span>
+      in various aspects of the digital world. I<span style="color: darkblue">
+        love sharing my knowledge and helping others </span
+      >vigate the exciting landscape of technology.
+    </p>
+    <div
+      style="
+        margin-top: 10px;
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-wrap: pretty;
+      "
+    >
+      <a
+        href="https://www.founder.digitaleweltlibrary.at/"
+        target="_blank"
+        style="
+          padding: 5px;
+          text-decoration: none;
+          border-radius: 10px;
+          color: black;
+          border: #c2c2c2 1px solid;
+        "
+        >🌐 Portfolio</a
+      >
+      <a
+        href="https://www.links.digitaleweltlibrary.at/"
+        target="_blank"
+        style="
+          padding: 5px;
+          text-decoration: none;
+          border-radius: 10px;
+          color: black;
+          border: #c2c2c2 1px solid;
+        "
+        >🔗 Links</a
+      >
+      <a
+        href="https://www.digitaleweltlibrary.at/"
+        target="_blank"
+        style="
+          padding: 5px;
+          text-decoration: none;
+          border-radius: 10px;
+          color: black;
+          border: #c2c2c2 1px solid;
+        "
+        >🌐 DWL</a
+      >
+      <a
+        href="https://www.youtube.com/@DigitaleWeltLibrary"
+        target="_blank"
+        style="
+          padding: 5px;
+          text-decoration: none;
+          border-radius: 10px;
+          color: black;
+          border: #c2c2c2 1px solid;
+        "
+        >▷ YouTube</a
+      >
+      <a
+        href="https://www.frontendmentor.io/profile/DigitaleWeltLibrary"
+        target="_blank"
+        style="
+          padding: 5px;
+          text-decoration: none;
+          border-radius: 10px;
+          color: black;
+          border: #c2c2c2 1px solid;
+        "
+        >✏️ Frontend Mentor</a
+      >
+      <a
+        href="https://www.codewars.com/users/DigitaleWeltLibrary"
+        target="_blank"
+        style="
+          padding: 5px;
+          text-decoration: none;
+          border-radius: 10px;
+          color: black;
+          border: #c2c2c2 1px solid;
+        "
+        >💻 Codewars</a
+      >
+      <a
+        href="https://www.founder.digitaleweltlibrary.at/#contact"
+        target="_blank"
+        style="
+          padding: 5px;
+          text-decoration: none;
+          border-radius: 10px;
+          color: black;
+          border: #c2c2c2 1px solid;
+        "
+        >✉️ contact</a
+      >
+    </div>
+  </section>
+</article>
 
-###
-
-<h1 align="left">Hello, I'm Raphael Holzer 👋</h1>
-
-###
-
-<p align="left">💻 Motivated Software Developer focusing on web development<br>🚀 Proficient in PHP and JavaScript, with a solid understanding of Python<br>🎯 Aiming to become a Full-Stack Developer and expand my skills into mobile development<br>🌱 Passionate about creating efficient, user-friendly web applications<br>📚 Always learning and staying up to date with the latest technologies<br>🌟 Dedicated to writing clean, maintainable, and well-structured code<br>✨ Committed to programming the best web experiences and putting my heart into every project to ensure users enjoy using the websites I build</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/raphael-broederbauer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@DigitaleWeltLibrary" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/realrafft/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://codepen.io/DigitaleWeltLibrary" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="40" alt="codepen logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="center">Frotend/Backend</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="center">Tools i use</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo"  />
-</div>
+<!-- <article
+  style="
+    margin-top: 10px;
+    display: grid;
+    gap: 1rem;
+    padding: 1.5rem;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  "
+>
+  <div
+    style="
+      padding: 5px;
+      border-radius: 10px;
+      color: black;
+      border: #c2c2c2 1px solid;
+      height: 100%;
+    "
+  >
+    <div style="display: flex; align-items: center; gap: 10px">
+      <img style="width: 30px" src="assets/code-solid-full.svg" alt="icon" />
+      <h2 style="font-size: 20px">Web Development & Design</h2>
+    </div>
+    <p style="margin: 0; text-wrap: pretty">
+      I design and develop modern, responsive, and user-centric websites and web
+      applications precisely tailored to your specific needs.
+    </p>
+  </div>
+  <div
+    style="
+      padding: 5px;
+      border-radius: 10px;
+      color: black;
+      border: #c2c2c2 1px solid;
+      height: 100%;
+    "
+  >
+    <div style="display: flex; align-items: center; gap: 10px">
+      <img
+        style="width: 30px"
+        src="assets/pen-fancy-solid-full.svg"
+        alt="icon"
+      />
+      <h2 style="font-size: 20px">Content Creation & Digital Marketing</h2>
+    </div>
+    <p style="margin: 0; text-wrap: pretty">
+      I optimize websites for search engines, boosting their visibility and
+      rankings. I also create compelling content to ensure your site is found
+      and attracts quality traffic.
+    </p>
+  </div>
+  <div
+    style="
+      padding: 5px;
+      border-radius: 10px;
+      color: black;
+      border: #c2c2c2 1px solid;
+      height: 100%;
+    "
+  >
+    <div style="display: flex; align-items: center; gap: 10px">
+      <img
+        style="width: 30px"
+        src="assets/graduation-cap-solid-full.svg"
+        alt="icon"
+      />
+      <h2 style="font-size: 20px">IT & Programming Education</h2>
+    </div>
+    <p style="margin: 0; text-wrap: pretty">
+      I demystify technical subjects by providing clear, concise, and practical
+      explanations. I create educational resources that transform complex
+      concepts into understandable knowledge.
+    </p>
+  </div>
+  <div
+    style="
+      padding: 5px;
+      border-radius: 10px;
+      color: black;
+      border: #c2c2c2 1px solid;
+      height: 100%;
+    "
+  >
+    <div style="display: flex; align-items: center; gap: 10px">
+      <img style="width: 30px" src="assets/bolt-solid-full.svg" alt="icon" />
+      <h2 style="font-size: 20px">Efficiency & Automation</h2>
+    </div>
+    <p style="margin: 0; text-wrap: pretty">
+      I identify bottlenecks and implement digital tools and processes. My goal
+      is to streamline workflows, enhance productivity, and optimize operations.
+    </p>
+  </div>
+</article>
+ -->
